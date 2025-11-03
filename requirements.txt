@@ -1,0 +1,6 @@
+streamlit
+pandas
+openpyxl
+k-means-constrained
+scikit-learn
+numpy

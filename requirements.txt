@@ -4,3 +4,5 @@ openpyxl
 k-means-constrained
 scikit-learn
 numpy
+folium
+streamlit-folium
